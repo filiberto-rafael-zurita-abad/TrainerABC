@@ -6,8 +6,7 @@ const HomePage = () => {
         <div className='max-w-md'>
           <h1 className='text-6xl font-bold text-primary'>TrainerABC</h1>
           <p className='py-6 text-lg leading-loose'>
-            Your language companion. We aim to enhances your 
-            conversations and help you reach your leanrning goals!
+              AI generated content for ESL students and teacher.
           </p>
           <Link href='/lessons' className='btn btn-secondary '>
             Get Started

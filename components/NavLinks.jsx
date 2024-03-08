@@ -1,8 +1,8 @@
 import Link from 'next/link';
 const links = [
-  { href: '/lessons', label: 'lessons' },
+  { href: '/lessons', label: 'ESL lessons' },
   { href: '/lessons/new-lesson', label: 'new lesson' },
-  { href: '/chat', label: 'chat' }
+  { href: '/chat', label: 'TrainerGPT' }
   
   //{ href: '/profile', label: 'profile' },
 ];

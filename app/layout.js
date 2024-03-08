@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: 'TrainerABC',
   description:
-    'Your language companion. We aim to enhances your conversations and help you reach your leanrning goals!',
+    'Your language companion. We use AI to generate ESL content.',
 };
 
 export default function RootLayout({ children }) {
